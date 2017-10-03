@@ -6,7 +6,6 @@
   "scripts": {
     "start": "browser-sync start --server ./src --files ./src",
     "test": "mocha --compilers js:babel-register test/*.spec.js"
-
   },
   "repository": {
     "type": "git",
@@ -33,6 +32,7 @@
     "presets": [
       "es2015"
     ],
+  },
   "bugs": {
     "url": "https://github.com/bamford-23/bamford-23.github.io/issues"
   },
