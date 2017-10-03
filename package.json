@@ -14,6 +14,10 @@
   "keywords": [
     ""
   ],
+  "bugs": {
+    "url": "https://github.com/bamford-23/bamford-23.github.io/issues"
+  },
+  "homepage": "https://github.com/bamford-23/bamford-23.github.io#readme",
   "author": "Me",
   "license": "ISC",
   "devDependencies": {
@@ -32,9 +36,5 @@
     "presets": [
       "es2015"
     ],
-  },
-  "bugs": {
-    "url": "https://github.com/bamford-23/bamford-23.github.io/issues"
-  },
-  "homepage": "https://github.com/bamford-23/bamford-23.github.io#readme"
+  }
 }
