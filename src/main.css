@@ -1,4 +1,9 @@
 body {
     background-image: url("https://i.imgur.com/4KlODl0.jpg");
     background-color: #cccccc;
+    background-position: 100% 100%;
+}
+header {
+  background-color: #000000; 
+
 }
